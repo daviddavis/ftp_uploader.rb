@@ -1,0 +1,9 @@
+# settings.yml
+
+:ftp:
+  :host: 'ftp.example.com'
+  :username: anonymous
+  :password: love
+  :path: '/var/backup_logs'
+
+:local_files: '/home/joemama/*.log'
